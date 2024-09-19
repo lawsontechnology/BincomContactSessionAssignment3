@@ -1,0 +1,363 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB427F53-F1A0-4F7D-85DA-E37F62E6857C}|BincomContactSessionAssignment3.csproj|c:\\users\\user\\source\\repos\\bincomcontactsessionassignment3\\controllers\\gallerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB427F53-F1A0-4F7D-85DA-E37F62E6857C}|BincomContactSessionAssignment3.csproj|solutionrelative:controllers\\gallerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB427F53-F1A0-4F7D-85DA-E37F62E6857C}|BincomContactSessionAssignment3.csproj|c:\\users\\user\\source\\repos\\bincomcontactsessionassignment3\\galleryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB427F53-F1A0-4F7D-85DA-E37F62E6857C}|BincomContactSessionAssignment3.csproj|solutionrelative:galleryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB427F53-F1A0-4F7D-85DA-E37F62E6857C}|BincomContactSessionAssignment3.csproj|c:\\users\\user\\source\\repos\\bincomcontactsessionassignment3\\views\\gallery\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB427F53-F1A0-4F7D-85DA-E37F62E6857C}|BincomContactSessionAssignment3.csproj|solutionrelative:views\\gallery\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB427F53-F1A0-4F7D-85DA-E37F62E6857C}|BincomContactSessionAssignment3.csproj|c:\\users\\user\\source\\repos\\bincomcontactsessionassignment3\\galleryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB427F53-F1A0-4F7D-85DA-E37F62E6857C}|BincomContactSessionAssignment3.csproj|solutionrelative:galleryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB427F53-F1A0-4F7D-85DA-E37F62E6857C}|BincomContactSessionAssignment3.csproj|c:\\users\\user\\source\\repos\\bincomcontactsessionassignment3\\gallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB427F53-F1A0-4F7D-85DA-E37F62E6857C}|BincomContactSessionAssignment3.csproj|solutionrelative:gallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB427F53-F1A0-4F7D-85DA-E37F62E6857C}|BincomContactSessionAssignment3.csproj|c:\\users\\user\\source\\repos\\bincomcontactsessionassignment3\\views\\gallery\\upload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB427F53-F1A0-4F7D-85DA-E37F62E6857C}|BincomContactSessionAssignment3.csproj|solutionrelative:views\\gallery\\upload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB427F53-F1A0-4F7D-85DA-E37F62E6857C}|BincomContactSessionAssignment3.csproj|c:\\users\\user\\source\\repos\\bincomcontactsessionassignment3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB427F53-F1A0-4F7D-85DA-E37F62E6857C}|BincomContactSessionAssignment3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB427F53-F1A0-4F7D-85DA-E37F62E6857C}|BincomContactSessionAssignment3.csproj|c:\\users\\user\\source\\repos\\bincomcontactsessionassignment3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB427F53-F1A0-4F7D-85DA-E37F62E6857C}|BincomContactSessionAssignment3.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB427F53-F1A0-4F7D-85DA-E37F62E6857C}|BincomContactSessionAssignment3.csproj|c:\\users\\user\\source\\repos\\bincomcontactsessionassignment3\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB427F53-F1A0-4F7D-85DA-E37F62E6857C}|BincomContactSessionAssignment3.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB427F53-F1A0-4F7D-85DA-E37F62E6857C}|BincomContactSessionAssignment3.csproj|c:\\users\\user\\source\\repos\\bincomcontactsessionassignment3\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB427F53-F1A0-4F7D-85DA-E37F62E6857C}|BincomContactSessionAssignment3.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB427F53-F1A0-4F7D-85DA-E37F62E6857C}|BincomContactSessionAssignment3.csproj|c:\\users\\user\\source\\repos\\bincomcontactsessionassignment3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DB427F53-F1A0-4F7D-85DA-E37F62E6857C}|BincomContactSessionAssignment3.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB427F53-F1A0-4F7D-85DA-E37F62E6857C}|BincomContactSessionAssignment3.csproj|c:\\users\\user\\source\\repos\\bincomcontactsessionassignment3\\migrations\\20240919073121_gallerydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB427F53-F1A0-4F7D-85DA-E37F62E6857C}|BincomContactSessionAssignment3.csproj|solutionrelative:migrations\\20240919073121_gallerydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB427F53-F1A0-4F7D-85DA-E37F62E6857C}|BincomContactSessionAssignment3.csproj|c:\\users\\user\\source\\repos\\bincomcontactsessionassignment3\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB427F53-F1A0-4F7D-85DA-E37F62E6857C}|BincomContactSessionAssignment3.csproj|solutionrelative:applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB427F53-F1A0-4F7D-85DA-E37F62E6857C}|BincomContactSessionAssignment3.csproj|c:\\users\\user\\source\\repos\\bincomcontactsessionassignment3\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB427F53-F1A0-4F7D-85DA-E37F62E6857C}|BincomContactSessionAssignment3.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB427F53-F1A0-4F7D-85DA-E37F62E6857C}|BincomContactSessionAssignment3.csproj|c:\\users\\user\\source\\repos\\bincomcontactsessionassignment3\\igalleryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB427F53-F1A0-4F7D-85DA-E37F62E6857C}|BincomContactSessionAssignment3.csproj|solutionrelative:igalleryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB427F53-F1A0-4F7D-85DA-E37F62E6857C}|BincomContactSessionAssignment3.csproj|c:\\users\\user\\source\\repos\\bincomcontactsessionassignment3\\galleryrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB427F53-F1A0-4F7D-85DA-E37F62E6857C}|BincomContactSessionAssignment3.csproj|solutionrelative:galleryrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB427F53-F1A0-4F7D-85DA-E37F62E6857C}|BincomContactSessionAssignment3.csproj|c:\\users\\user\\source\\repos\\bincomcontactsessionassignment3\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB427F53-F1A0-4F7D-85DA-E37F62E6857C}|BincomContactSessionAssignment3.csproj|solutionrelative:baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB427F53-F1A0-4F7D-85DA-E37F62E6857C}|BincomContactSessionAssignment3.csproj|c:\\users\\user\\source\\repos\\bincomcontactsessionassignment3\\igalleryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB427F53-F1A0-4F7D-85DA-E37F62E6857C}|BincomContactSessionAssignment3.csproj|solutionrelative:igalleryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB427F53-F1A0-4F7D-85DA-E37F62E6857C}|BincomContactSessionAssignment3.csproj|c:\\users\\user\\source\\repos\\bincomcontactsessionassignment3\\bincomcontactsessionassignment3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DB427F53-F1A0-4F7D-85DA-E37F62E6857C}|BincomContactSessionAssignment3.csproj|solutionrelative:bincomcontactsessionassignment3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240919073121_GalleryDB.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment3\\Migrations\\20240919073121_GalleryDB.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240919073121_GalleryDB.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment3\\Migrations\\20240919073121_GalleryDB.cs",
+              "RelativeToolTip": "Migrations\\20240919073121_GalleryDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:31:23.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment3\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment3\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-19T07:24:48.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T07:21:48.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwBQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T07:21:45.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment3\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment3\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T07:21:24.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment3\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment3\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T07:21:22.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Upload.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment3\\Views\\Gallery\\Upload.cshtml",
+              "RelativeDocumentMoniker": "Views\\Gallery\\Upload.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment3\\Views\\Gallery\\Upload.cshtml",
+              "RelativeToolTip": "Views\\Gallery\\Upload.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T07:20:09.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment3\\Views\\Gallery\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Gallery\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment3\\Views\\Gallery\\Index.cshtml",
+              "RelativeToolTip": "Views\\Gallery\\Index.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwB8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T07:17:02.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BincomContactSessionAssignment3",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment3\\BincomContactSessionAssignment3.csproj",
+              "RelativeDocumentMoniker": "BincomContactSessionAssignment3.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment3\\BincomContactSessionAssignment3.csproj",
+              "RelativeToolTip": "BincomContactSessionAssignment3.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-17T16:53:40.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAD4vyYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T05:59:17.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GalleryController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment3\\Controllers\\GalleryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GalleryController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment3\\Controllers\\GalleryController.cs",
+              "RelativeToolTip": "Controllers\\GalleryController.cs",
+              "ViewState": "AQIAABYAAAAAMzMzMzMnwCgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T05:42:08.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BaseResponse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment3\\BaseResponse.cs",
+              "RelativeDocumentMoniker": "BaseResponse.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment3\\BaseResponse.cs",
+              "RelativeToolTip": "BaseResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:54:26.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GalleryRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment3\\GalleryRequestModel.cs",
+              "RelativeDocumentMoniker": "GalleryRequestModel.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment3\\GalleryRequestModel.cs",
+              "RelativeToolTip": "GalleryRequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:30:17.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IGalleryService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment3\\IGalleryService.cs",
+              "RelativeDocumentMoniker": "IGalleryService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment3\\IGalleryService.cs",
+              "RelativeToolTip": "IGalleryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T13:23:33.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IGalleryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment3\\IGalleryRepository.cs",
+              "RelativeDocumentMoniker": "IGalleryRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment3\\IGalleryRepository.cs",
+              "RelativeToolTip": "IGalleryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T13:20:37.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GalleryService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment3\\GalleryService.cs",
+              "RelativeDocumentMoniker": "GalleryService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment3\\GalleryService.cs",
+              "RelativeToolTip": "GalleryService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAkwCQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T13:15:52.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GalleryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment3\\GalleryRepository.cs",
+              "RelativeDocumentMoniker": "GalleryRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment3\\GalleryRepository.cs",
+              "RelativeToolTip": "GalleryRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAtwBkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T13:13:53.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment3\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment3\\ApplicationDBContext.cs",
+              "RelativeToolTip": "ApplicationDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T13:11:09.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Gallery.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment3\\Gallery.cs",
+              "RelativeDocumentMoniker": "Gallery.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment3\\Gallery.cs",
+              "RelativeToolTip": "Gallery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T13:10:09.304Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

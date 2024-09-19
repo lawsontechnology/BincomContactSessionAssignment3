@@ -1,0 +1,18 @@
+﻿@model BincomContactSessionAssignment3.GalleryRequestModel
+
+<h2>Upload Image</h2>
+
+<form asp-action="Upload" enctype="multipart/form-data" method="post">
+    <div class="form-group">
+        <label asp-for="FilePath" class="control-label"></label>
+        <input asp-for="FilePath" class="form-control" type="file" />
+        <span asp-validation-for="FilePath" class="text-danger"></span>
+    </div>
+    
+    <button type="submit" class="btn btn-primary">Upload</button>
+</form>
+
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">@TempData["ErrorMessage"]</div>
+}
